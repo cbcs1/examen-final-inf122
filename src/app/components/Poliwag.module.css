@@ -1,0 +1,49 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    
+    justify-items: center;
+}
+
+.pokenombre{
+    color:  #26367C;
+    margin-top: 20px;
+    text-transform: capitalize;
+    
+}
+.pokemonid{
+text-align: end;
+color: #3f5ad3;
+
+}
+.titleabout{
+    margin-top: 20px;
+}
+.pokemonabout{
+    margin-top: 20px;
+}
+.pokemonaboutt{
+    margin-left: 40px;
+}
+
+.pokemonstatss{
+    margin-left: 40px;
+}
+.pokemonstats{
+    margin-top: 20px;
+}
+.titlestats{
+    margin-top: 20px;
+}
+.pokemostats{
+    margin-top: 20px;
+}
+.pokeAbout{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+}
+.pokeStats{
+    display: flex;
+    flex-direction: row;
+}
